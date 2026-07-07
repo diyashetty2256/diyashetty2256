@@ -2,10 +2,10 @@
   <img src="https://cdn.jsdelivr.net/gh/ViratiAkiraNandhanReddy/pixel-art-readme-gifs@v1/gifs/hrzn/b39c60bf-a6a1-4989-8a41-cd7556b9ac3e.gif" width="100%">
 </p>
 
-<h1 align="center">Hi, I'm Diya Shetty 👋</h1>
+<h1 align="center">🌙 Hi I'm Diya Shetty👋</h1>
 
 <h3 align="center">
-Designing thoughtful digital experiences through creativity, curiosity, and code.
+Creating digital spaces where design, emotion, and technology meet.
 </h3>
 
 <p align="center">
@@ -55,11 +55,11 @@ Designing thoughtful digital experiences through creativity, curiosity, and code
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/diyashetty12">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:diyashetty2256@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
