@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%">
+  <img src="https://cdn.jsdelivr.net/gh/ViratiAkiraNandhanReddy/pixel-art-readme-gifs@v1/gifs/hrzn/b39c60bf-a6a1-4989-8a41-cd7556b9ac3e.gif" width="100%">
 </p>
 
 <h1 align="center">🌙 Hi I'm Diya Shetty👋</h1>
@@ -39,16 +39,6 @@ Creating digital spaces where design, emotion, and technology meet.
 - React.js
 - Accessibility
 - Artificial Intelligence
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiyaShetty12&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="170"/>
-</p>
-
----
 
 ## 🌐 Let's Connect
 
