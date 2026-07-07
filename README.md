@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/ViratiAkiraNandhanReddy/pixel-art-readme-gifs@v1/gifs/hrzn/32ef73d0-fb6c-447c-a5e0-24ac7b6464b6.gif"width="100%">
+  <img src="https://cdn.jsdelivr.net/gh/ViratiAkiraNandhanReddy/pixel-art-readme-gifs@v1/gifs/hrzn/51aaabf2-8d66-45f7-b310-c3522ab6b90c.gif" width="100%">
 </p>
 
 <h1 align="center">🌙 Hi I'm Diya Shetty👋</h1>
